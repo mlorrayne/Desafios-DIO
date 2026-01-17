@@ -15,7 +15,7 @@ Ex: Entrada =12, saída = 3
 
 import java.util.*;
 
-public class Desafio {
+public class QuadradosPerfeitos {
 
     public static void main(String[] args) {
         int n = Integer.parseInt(new Scanner(System.in).nextLine());
