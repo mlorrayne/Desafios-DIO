@@ -14,7 +14,7 @@ Explicação: 7 = 4 * 3 / 2 + 1
 
 import java.util.*;
 
-public class ConsoleApp1 {
+public class FatorialDesajeitado {
     public static void main(String[] args) {
         int n = Integer.parseInt(new Scanner(System.in).nextLine());
         int res = 0;
